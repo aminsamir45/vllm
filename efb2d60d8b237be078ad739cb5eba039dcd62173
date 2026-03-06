@@ -1,0 +1,29 @@
+vllm/model_executor/models/config.py
+  fbffdcc2e9b2e726 694,696
+tests/models/registry.py
+  fbffdcc2e9b2e726 482-489
+vllm/model_executor/models/qwen3_5.py
+  fbffdcc2e9b2e726 521,605-607,609-617,619-641
+vllm/model_executor/models/registry.py
+  fbffdcc2e9b2e726 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "efb2d60d8b237be078ad739cb5eba039dcd62173",
+  "prompts": {
+    "fbffdcc2e9b2e726": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c987332e-a079-4829-9ade-9dc44a894dff",
+        "model": "claude-4.6-opus-high-thinking"
+      },
+      "human_author": "Samir Amin <aminsamir45@gmail.com>",
+      "messages": [],
+      "total_additions": 53,
+      "total_deletions": 3,
+      "accepted_lines": 48,
+      "overriden_lines": 2
+    }
+  }
+}
