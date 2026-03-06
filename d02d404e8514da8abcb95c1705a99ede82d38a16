@@ -1,0 +1,23 @@
+vllm/model_executor/models/registry.py
+  3bc2209787f6ac38 193-194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "d02d404e8514da8abcb95c1705a99ede82d38a16",
+  "prompts": {
+    "3bc2209787f6ac38": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3ccbcc5e-6b72-4d42-b69c-fc0846d46f40",
+        "model": "claude-4.6-opus-high-thinking"
+      },
+      "human_author": "Samir Amin <aminsamir45@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
