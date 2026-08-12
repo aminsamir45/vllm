@@ -1,0 +1,26 @@
+tests/v1/kv_connector/extract_hidden_states_integration/test_extraction.py
+  s_04bdea9822df97::t_560b9bedb77d82 370-378
+  s_04bdea9822df97::t_e25046cb4cc36b 382
+  s_04bdea9822df97::t_7c437f25442833 367-369,380
+  s_04bdea9822df97::t_27f0a207f710b8 401
+  s_04bdea9822df97::t_9a9e2121934d27 300-366,379,381,383-400,402-404,428
+  s_04bdea9822df97::t_b9179cf4383658 405-414,416,418
+  s_04bdea9822df97::t_eab2430badc5bf 415,417,419-427
+  s_04bdea9822df97::t_58f4ec4ad81276 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "cc0f48b915a921a8a244d1b72631c2a1b5177ef7",
+  "prompts": {},
+  "sessions": {
+    "s_04bdea9822df97": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d8a0cbe3-2d99-4d9e-948f-31e8b6dc03f5",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
