@@ -1,0 +1,23 @@
+tests/v1/kv_connector/extract_hidden_states_integration/test_extraction.py
+  s_04bdea9822df97::t_27f0a207f710b8 400
+  s_04bdea9822df97::t_7c437f25442833 367-369,380
+  s_04bdea9822df97::t_9a9e2121934d27 300-366,379,381-399,401-403,418
+  s_04bdea9822df97::t_eab2430badc5bf 404-417
+  s_04bdea9822df97::t_560b9bedb77d82 370-378
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "bead2d9c9f161abc7a29dda197acb94093dba870",
+  "prompts": {},
+  "sessions": {
+    "s_04bdea9822df97": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d8a0cbe3-2d99-4d9e-948f-31e8b6dc03f5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Samir Amin <aminsamir45@gmail.com>"
+    }
+  }
+}
